@@ -1,0 +1,22 @@
+{
+  "name": "do-you-know-me",
+  "version": "1.0.0",
+  "description": "I have used this for my project",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "express": "^4.17.1",
+    "node": "^15.2.1",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Do-You-Know-Me"
+  },
+  "author": "Akash Kumar Singh",
+  "license": "ISC"
+}
