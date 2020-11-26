@@ -21,7 +21,7 @@
         2.2. How to read input from user and output 
         2.3. Checking if-elseconditions
 
-    1. What is Looping and Some Basic Data Structures like Arrays and Objects    
+1. What is Looping and Some Basic Data Structures like Arrays and Objects    
 
 
 
